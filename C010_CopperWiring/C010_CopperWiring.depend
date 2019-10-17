@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477460972 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c010_copperwiring\orderstatus.cpp
+	<iostream>
+	<iomanip>
+

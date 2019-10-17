@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1485927319 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c022_hw3mainevent\main.cpp
+	"rational.h"
+	"Rational.h"
+	"Template.h"
+
+1485929551 c:\users\ericc\onedrive\documents\cs\codeblock_programs\c022_hw3mainevent\include\rational.h
+	<iostream>
+
+1485943456 c:\users\ericc\onedrive\documents\cs\codeblock_programs\c022_hw3mainevent\include\template.h
+	<iostream>
+	<typeinfo>
+	<cassert>
+	<cmath>
+
+1485929175 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c022_hw3mainevent\src\rational.cpp
+	"Rational.h"
+
+1485927380 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c022_hw3mainevent\src\template.cpp
+	"Template.h"
+

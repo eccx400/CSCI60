@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479459626 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c016_statistics\main.cpp
+	<iostream>
+	<fstream>
+
+1479461620 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c016_statistics\statistics.cpp
+	<iostream>
+	<fstream>
+

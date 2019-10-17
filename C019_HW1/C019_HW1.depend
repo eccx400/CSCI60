@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484779122 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c019_hw1\main.cpp
+	<iostream>
+	<fstream>
+	<assert.h>
+

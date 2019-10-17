@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478751144 source:c:\users\ericc\onedrive\documents\cs\codeblock_programs\c014_weather\weather.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
